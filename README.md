@@ -2,6 +2,8 @@
 Home for links to private repos and trello boards
 ###Repos:
 
+- [SATA Mediator](https://github.com/SiCoreTech/SATA_Mediator)
+
 - [SATA Mediator Device Driver](https://github.com/SiCoreTech/SATA_Mediator_Device_Driver)
 
 - [NTFS Parser](https://github.com/SiCoreTech/NTFSParser) (best current working branch is james-dev)
@@ -15,6 +17,8 @@ Home for links to private repos and trello boards
 ###Trello Boards:
 
 - [Timesheets](https://trello.com/b/4RKYVSjq/timesheets)
+
+- [SATA Mediator](https://trello.com/b/TTRYGGLa/sata)
 
 - [SATA Mediator Device Driver](https://trello.com/b/kBWeIwE9/sata-m-device-driver)
 
