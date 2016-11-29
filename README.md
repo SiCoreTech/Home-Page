@@ -14,7 +14,7 @@ Home for links to private repos and trello boards
 
 - [Adlib2](https://github.com/SiCoreTech/Adlib2)
 
-- [RTMCC](https://github.com/SiCoreTech/Home-Page.git)
+- [RTMCC](https://github.com/SiCoreTech/RTMCC.git)
 
 ###Trello Boards:
 
